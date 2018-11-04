@@ -1,0 +1,23 @@
+{
+  "name": "WEB3-Express",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "PKW"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
